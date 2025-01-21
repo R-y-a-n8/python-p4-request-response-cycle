@@ -21,7 +21,8 @@ def index():
         <h2>The name of this application is {appname}</h2>
         <h3>The path of this application on the user's device is {g.path}</h3>
     '''
-
+   
+    
     status_code = 200
     headers = {}
 
